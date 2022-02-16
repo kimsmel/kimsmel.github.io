@@ -1,7 +1,7 @@
 # kimsmel.github.io
 bbr8 官网静态文件存放
 
-```
+```mermaid
 journey
     title My working day
     section Go to work
