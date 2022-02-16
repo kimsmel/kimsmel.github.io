@@ -1,7 +1,7 @@
 # kimsmel.github.io
 bbr8 官网静态文件存放
 
-
+```
 journey
     title My working day
     section Go to work
@@ -11,3 +11,4 @@ journey
     section Go home
       Go downstairs: 5: Me
       Sit down: 5: Me
+```
